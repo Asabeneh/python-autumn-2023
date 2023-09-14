@@ -1,0 +1,9 @@
+# Hello World
+# Comments
+# Builtin functions
+# Data types
+# Variables
+# Operators:
+- Arithmetics
+- Comparsion
+- Logical Operators

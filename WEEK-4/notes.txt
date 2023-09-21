@@ -1,0 +1,3 @@
+- Loop: For loop and While loop
+- Strings and String methods
+- Set, Tuple and Dictionary

@@ -1,5 +1,11 @@
 comparsion Operators
 Logical Operators
 Conditionals
-Lisit
+List
 Loops
+
+Revision:
+- Data Types (Numbers(int, float, complex), Booleans(True, False), Strings, List, Tuples, Set, Dictionary )
+- Builtin Functions(print, round, sum, int, float, list, range)
+- Variables (firstName, first_name, age)
+- Arithmetic Operations (+, -, *, /, %, //, **)

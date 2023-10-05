@@ -1,2 +1,3 @@
 - Strings and String methods
 - Set, Tuple and Dictionary
+- Functions

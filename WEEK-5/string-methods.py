@@ -107,3 +107,5 @@ print('      I love people'.strip())
 print('      I love people'.strip('people'))
 print('test')
 print(' love      I love people'.strip(' love'))
+
+

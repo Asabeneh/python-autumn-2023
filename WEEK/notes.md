@@ -1,0 +1,5 @@
+  - List comprehension
+  - Higher order function
+  - Functional Programming (map, filter , reduce)
+  - Python error types
+  - Exception hanlding

@@ -1,0 +1,11 @@
+# SyntaxError
+# TypeError
+# NameError
+# IndexError
+# keyError
+# ModuleNotFoundError
+# ImportError
+# AttributeError
+# ValueError
+# ZeroDivisionError
+# FileNotFoundError

@@ -1,0 +1,4 @@
+- Regular Express
+- Third Party Packages
+- Fetch Data from API: Cats or Countries
+- Requests, Numpy, Panda Matplotlib

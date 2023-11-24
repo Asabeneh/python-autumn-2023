@@ -1,0 +1,1 @@
+- Third party packages: requests, numpy, pandas, scipy, matplotlib, skitlearn
